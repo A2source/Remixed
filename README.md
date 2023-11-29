@@ -2,6 +2,6 @@ hi. remixed will go here when i start working on it. if you ever feel like cloni
 
 also BTW, all music and art assets made for this mod are available for public use. credit is not required but we appreciate it. so yea thanks for your time and enjoy sonic
 
-The Remixed Team:
-[A2] (Creator, Musician, Programmer)
+The Remixed Team: \
+[A2] (Creator, Musician, Programmer) \
 DeliriousPersona (Artist)
